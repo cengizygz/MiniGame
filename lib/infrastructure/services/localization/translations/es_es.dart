@@ -1,0 +1,53 @@
+final Map<String, String> esES = {
+  // General
+  'app_name': 'Mini Juegos',
+  'loading': 'Cargando...',
+  'error': 'Error',
+  'retry': 'Reintentar',
+  'success': 'Éxito',
+  'cancel': 'Cancelar',
+  'save': 'Guardar',
+  'continue': 'Continuar',
+  'back': 'Volver',
+  'exit': 'Salir',
+  'yes': 'Sí',
+  'no': 'No',
+  
+  // Main Menu
+  'home': 'Inicio',
+  'play': 'Jugar',
+  'settings': 'Ajustes',
+  'profile': 'Perfil',
+  'leaderboard': 'Tabla de clasificación',
+  'achievements': 'Logros',
+  'shop': 'Tienda',
+  
+  // Game Categories
+  'game_categories': 'Categorías de Juegos',
+  'reflex_games': 'Juegos de Reflejos',
+  'puzzle_games': 'Juegos de Rompecabezas',
+  'arcade_games': 'Juegos de Arcade',
+  'strategy_games': 'Juegos de Estrategia',
+  'educational_games': 'Juegos Educativos',
+  'physics_games': 'Juegos Basados en Física',
+  'rhythm_games': 'Juegos de Ritmo',
+  
+  // Settings
+  'settings_title': 'Ajustes',
+  'sound_settings': 'Ajustes de Sonido',
+  'music': 'Música',
+  'sound_effects': 'Efectos de Sonido',
+  'music_volume': 'Volumen de Música',
+  'sound_volume': 'Volumen de Efectos',
+  'language': 'Idioma',
+  'theme': 'Tema',
+  'light': 'Claro',
+  'dark': 'Oscuro',
+  'system': 'Sistema',
+  'graphics': 'Gráficos',
+  'resolution': 'Resolución',
+  'fps': 'FPS',
+  'high': 'Alto',
+  'medium': 'Medio',
+  'low': 'Bajo',
+}; 

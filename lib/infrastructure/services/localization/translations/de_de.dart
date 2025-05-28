@@ -1,0 +1,53 @@
+final Map<String, String> deDE = {
+  // General
+  'app_name': 'Mini Spiele',
+  'loading': 'Wird geladen...',
+  'error': 'Fehler',
+  'retry': 'Wiederholen',
+  'success': 'Erfolg',
+  'cancel': 'Abbrechen',
+  'save': 'Speichern',
+  'continue': 'Weiter',
+  'back': 'Zurück',
+  'exit': 'Beenden',
+  'yes': 'Ja',
+  'no': 'Nein',
+  
+  // Main Menu
+  'home': 'Startseite',
+  'play': 'Spielen',
+  'settings': 'Einstellungen',
+  'profile': 'Profil',
+  'leaderboard': 'Bestenliste',
+  'achievements': 'Erfolge',
+  'shop': 'Shop',
+  
+  // Game Categories
+  'game_categories': 'Spielkategorien',
+  'reflex_games': 'Reflexspiele',
+  'puzzle_games': 'Puzzlespiele',
+  'arcade_games': 'Arcade-Spiele',
+  'strategy_games': 'Strategiespiele',
+  'educational_games': 'Lernspiele',
+  'physics_games': 'Physikbasierte Spiele',
+  'rhythm_games': 'Rhythmusspiele',
+  
+  // Settings
+  'settings_title': 'Einstellungen',
+  'sound_settings': 'Toneinstellungen',
+  'music': 'Musik',
+  'sound_effects': 'Soundeffekte',
+  'music_volume': 'Musiklautstärke',
+  'sound_volume': 'Effektlautstärke',
+  'language': 'Sprache',
+  'theme': 'Design',
+  'light': 'Hell',
+  'dark': 'Dunkel',
+  'system': 'System',
+  'graphics': 'Grafik',
+  'resolution': 'Auflösung',
+  'fps': 'FPS',
+  'high': 'Hoch',
+  'medium': 'Mittel',
+  'low': 'Niedrig',
+}; 
